@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
+<head>
+	<title>My GitHub Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 <body>
-
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
+	<div class="container">
+		<img src="profile-pic.jpg" alt="Profile Picture">
+		<h1>John Doe</h1>
+		<p>Software Developer</p>
+		<p>I am a software developer with over 5 years of experience in web development. I specialize in building responsive and user-friendly web applications using HTML, CSS, JavaScript, and PHP.</p>
+	</div>
 </body>
 </html>
-Try it Yourself »
